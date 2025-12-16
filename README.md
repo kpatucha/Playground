@@ -1,4 +1,5 @@
 # Repository with small projects I played around with
+- [CatBoost json tutorial](https://github.com/kpatucha/Playground/blob/main/notebooks/catboost_json.ipynb) - how to analyze CatBoost model through json export
 - [Perturbation theory - quantum mechanics (and other eigenvalue problems)](https://github.com/kpatucha/Playground/blob/main/notebooks/kato_expansion.ipynb) - method to calculate formula for high order expansion
 - [Phase diagram of Bose-Hubbard model using exact diagonalization](https://github.com/kpatucha/Playground/blob/main/notebooks/BH_phase_diagram.ipynb) - exact diagonalization implemented using OOP and some neat tricks to calculate phase boundary
 - [Exact diagonalization of Bose-Hubbard model](https://github.com/kpatucha/Playground/blob/main/notebooks/BH_exact_diag.ipynb) - using `cupy` and GPU
